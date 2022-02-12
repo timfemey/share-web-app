@@ -1,0 +1,19 @@
+{
+  "name": "share",
+  "version": "1.0.0",
+  "description": "A Web App for sharing files quickly",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "share",
+    "node.js"
+  ],
+  "author": "Ishola Obafemi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "socket.io": "^4.4.1"
+  }
+}
